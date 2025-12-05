@@ -10,7 +10,7 @@ Embedded IoT with **NO WIFI** needed. Equipped with Embedded Kendryte-based NPU 
 
 ## PCB Documents
 
-this repo was made with Kicad in mind. do notify to merge!
+this repo was made with Kicad in mind. PLEASE MAKE A NEW BRANCH! DO NOT USE MAIN UNLESS ALLOWED.
 
 ## Documentation
 
