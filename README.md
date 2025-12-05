@@ -8,6 +8,19 @@ Embedded IoT with **NO WIFI** needed. Equipped with Embedded Kendryte-based NPU 
 | --- | --- |
 | AI-based water condition monitoring | AI-assisted automated feeding |
 
+## PCB Documents
+
+this repo was made with Kicad in mind. do notify to merge!
+
+## Documentation
+
+please add all datasheets used here
+as well as BOM file - PNP files - GERBER in respective files, if it doesnt exist do make one.
+
+## WEBAPP
+
+as of now i have no clue how web programming work this section will be leaved to akina
+
 ## AI Models used for Stand-Alone Mode
 
 
